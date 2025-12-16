@@ -56,6 +56,7 @@ Follow these steps to run the project locally.
 1️⃣ Clone the repository
 
 git clone https://github.com/oumaimabnz/Todo-app.git
+
 cd Todo-app
 
 2️⃣ Install dependencies
