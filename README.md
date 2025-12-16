@@ -1,16 +1,117 @@
-# React + Vite
+# ✅ Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and minimal **Todo application** built with **React**, **Vite**, and **Tailwind CSS**.  
+This app allows users to manage daily tasks efficiently through a clean, responsive, and user-friendly interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+👉 https://todo-app-drab-alpha-42.vercel.app/
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧰 Tech Stack
+
+- **React**
+- **Vite**
+- **TailwindCSS v4**
+- **JavaScript (ES6+)**
+
+---
+
+## ✨ Features
+
+- ➕ Add new tasks
+- ✏️ Edit existing tasks
+- 🗑️ Delete tasks
+- ✅ Mark tasks as completed
+- 💾 Persistent data using **localStorage**
+- 📱 Fully responsive design
+- 🎨 Clean and modern UI with Tailwind CSS
+
+---
+
+## 📁 Project Structure
+
+````
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── package.json
+├── vite.config.js
+└── README.md
+````
+---
+
+## 🛠️ Getting Started
+
+Follow these steps to run the project locally.
+
+1️⃣ Clone the repository
+
+git clone https://github.com/oumaimabnz/Todo-app.git
+
+cd Todo-app
+
+2️⃣ Install dependencies
+
+npm install
+
+3️⃣ Start the development server
+
+npm run dev
+
+Open your browser and visit:
+
+http://localhost:5173
+
+---
+
+## 🚢 Deployment
+
+This project can be deployed for free using modern frontend platforms:
+
+Vercel (recommended)
+
+Netlify
+
+The app is optimized for static deployment and works seamlessly with Vite build output.
+
+---
+
+## 🎯 What This Project Demonstrates
+
+→ React component-based architecture
+
+→ State and event handling
+
+→ Clean UI design using Tailwind CSS
+
+→ Local storage for client-side persistence
+
+→ Responsive layout and accessibility basics
+
+→ Real-world frontend project structure
+
+---
+
+## 📬 Contact
+
+👤 Oumaima Benaziza
+
+🔗 LinkedIn: www.linkedin.com/in/oumaima-benaziza
+
+📧 Email: oumaimabenaziza21@gmail.com
+
+---
+
+## ⭐ Support
+
+If you like this project or find it useful, feel free to star ⭐ the repository.
+Feedback and suggestions are always welcome!
