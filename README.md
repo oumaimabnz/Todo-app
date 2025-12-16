@@ -35,6 +35,7 @@ This app allows users to manage daily tasks efficiently through a clean, respons
 
 ## 📁 Project Structure
 
+````
 ├── public/
 ├── src/
 │   ├── components/
@@ -45,7 +46,7 @@ This app allows users to manage daily tasks efficiently through a clean, respons
 ├── package.json
 ├── vite.config.js
 └── README.md
-
+````
 ---
 
 ## 🛠️ Getting Started
