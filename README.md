@@ -105,7 +105,7 @@ The app is optimized for static deployment and works seamlessly with Vite build 
 
 👤 Oumaima Benaziza
 
-🔗 LinkedIn: www.linkedin.com/in/oumaima-ben
+🔗 LinkedIn: www.linkedin.com/in/oumaima-benaziza
 
 📧 Email: oumaimabenaziza21@gmail.com
 
