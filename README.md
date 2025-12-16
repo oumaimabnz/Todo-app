@@ -78,6 +78,7 @@ http://localhost:5173
 This project can be deployed for free using modern frontend platforms:
 
 Vercel (recommended)
+
 Netlify
 
 The app is optimized for static deployment and works seamlessly with Vite build output.
@@ -87,10 +88,15 @@ The app is optimized for static deployment and works seamlessly with Vite build 
 ## 🎯 What This Project Demonstrates
 
 → React component-based architecture
+
 → State and event handling
+
 → Clean UI design using Tailwind CSS
+
 → Local storage for client-side persistence
+
 → Responsive layout and accessibility basics
+
 → Real-world frontend project structure
 
 ---
@@ -98,7 +104,9 @@ The app is optimized for static deployment and works seamlessly with Vite build 
 ## 📬 Contact
 
 👤 Oumaima Benaziza
+
 🔗 LinkedIn: www.linkedin.com/in/oumaima-ben
+
 📧 Email: oumaimabenaziza21@gmail.com
 
 ---
