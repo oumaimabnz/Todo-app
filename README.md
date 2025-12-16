@@ -54,13 +54,16 @@ This app allows users to manage daily tasks efficiently through a clean, respons
 Follow these steps to run the project locally.
 
 1️⃣ Clone the repository
+
 git clone https://github.com/oumaimabnz/Todo-app.git
 cd Todo-app
 
 2️⃣ Install dependencies
+
 npm install
 
 3️⃣ Start the development server
+
 npm run dev
 
 Open your browser and visit:
