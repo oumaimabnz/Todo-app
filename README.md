@@ -54,18 +54,20 @@ This app allows users to manage daily tasks efficiently through a clean, respons
 Follow these steps to run the project locally.
 
 1️⃣ Clone the repository
-
+````bash
 git clone https://github.com/oumaimabnz/Todo-app.git
-
 cd Todo-app
+````
 
 2️⃣ Install dependencies
-
+````bash
 npm install
+````
 
 3️⃣ Start the development server
-
+````bash
 npm run dev
+````
 
 Open your browser and visit:
 
@@ -77,9 +79,8 @@ http://localhost:5173
 
 This project can be deployed for free using modern frontend platforms:
 
-Vercel (recommended)
-
-Netlify
+- Vercel (recommended)
+- Netlify
 
 The app is optimized for static deployment and works seamlessly with Vite build output.
 
@@ -87,17 +88,12 @@ The app is optimized for static deployment and works seamlessly with Vite build 
 
 ## 🎯 What This Project Demonstrates
 
-→ React component-based architecture
-
-→ State and event handling
-
-→ Clean UI design using Tailwind CSS
-
-→ Local storage for client-side persistence
-
-→ Responsive layout and accessibility basics
-
-→ Real-world frontend project structure
+- React component-based architecture
+- State and event handling
+- Clean UI design using Tailwind CSS
+- Local storage for client-side persistence
+- Responsive layout and accessibility basics
+- Real-world frontend project structure
 
 ---
 
